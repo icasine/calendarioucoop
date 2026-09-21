@@ -42,9 +42,10 @@ def base(l, ident):
             "resumo": l.get("resumo", ""),
             "descricao": l.get("descricao", ""),
             "link": l.get("link", ""),
-            "imagem": l.get("imagem", ""),
+            "imagem": l.get("imagem", "") or l.get("foto", ""),
             "fonte": l.get("fonte", ""),
             "relembrar": l.get("relembrar", "").lower() == "sim",
+            "evidenciar": l.get("evidenciar", "").strip().lower() in ("sim", "s", "true", "1", "x") or l.get("destaque", "").strip().lower() in ("sim", "s", "true", "1", "x"),
         },
     }
 
