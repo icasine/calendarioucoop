@@ -45,7 +45,7 @@ def base(l, ident):
             "imagem": l.get("imagem", "") or l.get("foto", ""),
             "fonte": l.get("fonte", ""),
             "relembrar": l.get("relembrar", "").lower() == "sim",
-            "evidenciar": l.get("evidenciar", "").strip().lower() in ("sim", "s", "true", "1", "x") or l.get("destaque", "").strip().lower() in ("sim", "s", "true", "1", "x"),
+            "evidenciar": any(l.get(c, "").strip().lower() in ("sim", "s", "true", "1", "x") for c in ("evidenciar", "destaque", "destacar")),
         },
     }
 
