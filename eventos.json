@@ -5785,8 +5785,8 @@
       "local": "",
       "resumo": "Dr. Edmundo Castilho e grupo de médicos fundam a primeira cooperativa de trabalho médico do mundo, dando origem à rede Unimed.",
       "descricao": "",
-      "link": "",
-      "imagem": "",
+      "link": "https://50anos.unimedfesp.coop.br/nossa-historia",
+      "imagem": "https://50anos.unimedfesp.coop.br/fotos/634564356436345.jpg",
       "fonte": "Diva Pinho - Adriana Amaral",
       "relembrar": false,
       "evidenciar": false,
@@ -5902,8 +5902,8 @@
       "local": "",
       "resumo": "Fundação da Cooperativa Central Oeste Catarinense em Chapecó (SC), constituída para industrializar e exportar carne e grãos de cooperativas filiadas.",
       "descricao": "",
-      "link": "",
-      "imagem": "",
+      "link": "https://www.auroraalimentos.com.br/nossa-historia/",
+      "imagem": "https://www.auroraalimentos.com.br/wp-content/uploads/2022/04/logo-aurora-1969-linha-do-tempo.png",
       "fonte": "Diva Pinho - Adriana Amaral",
       "relembrar": false,
       "evidenciar": false,
@@ -9330,8 +9330,8 @@
       "local": "",
       "resumo": "Banco Central autoriza o Banco Cooperativo Sicredi S.A. no Rio Grande do Sul a operar câmbio, tesouraria e serviços bancários para as filiadas.",
       "descricao": "",
-      "link": "",
-      "imagem": "",
+      "link": "https://www.sicredi.com.br/home/",
+      "imagem": "https://marca.sicredi.com.br/media/brandplace/filer_public_thumbnails/filer_public/2024/08/02/banner_sicredi.jpg__872x280_subsampling-2.webp",
       "fonte": "Diva Pinho - Adriana Amaral",
       "relembrar": false,
       "evidenciar": false,
@@ -9339,6 +9339,26 @@
     },
     "allDay": true,
     "start": "1996-10-16"
+  },
+  {
+    "id": "aprovao-bancoob-1996",
+    "title": "Aprovação do Banco Cooperativo do Brasil (Bancoob)",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Legislativo",
+      "tags": [],
+      "local": "",
+      "resumo": "Banco Central autoriza o funcionamento do Bancoob (atual Banco Sicoob), constituído por centrais de crédito rural e urbano de 8 estados.",
+      "descricao": "A instituição continua funcionando normalmente sob a nova identidade de marca, mantendo o mesmo código de compensação bancária (756). A alteração foi realizada para unificar a comunicação e alinhar o banco ao nome do sistema cooperativo do qual ele faz parte, o Sicoob.",
+      "link": "https://www.sicoob.com.br/web/blog/b/evolucao-do-cooperativismo-no-brasil",
+      "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Logotipo_do_Sicoob.svg/1920px-Logotipo_do_Sicoob.svg.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fonte": "Diva Pinho",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia"
+    },
+    "allDay": true,
+    "start": "1996-11-04"
   },
   {
     "id": "ocb-fundacao-1996",
@@ -9463,26 +9483,6 @@
     "start": "1997-07-07"
   },
   {
-    "id": "aprovao-bancoob-1997",
-    "title": "Aprovação do Banco Cooperativo do Brasil (Bancoob)",
-    "extendedProps": {
-      "tipo": "fato histórico",
-      "categoria": "Legislativo",
-      "tags": [],
-      "local": "",
-      "resumo": "Banco Central autoriza o funcionamento do Bancoob (atual Banco Sicoob), constituído por centrais de crédito rural e urbano de 8 estados.",
-      "descricao": "",
-      "link": "",
-      "imagem": "",
-      "fonte": "Diva Pinho - Adriana Amaral",
-      "relembrar": false,
-      "evidenciar": false,
-      "precisao": "mes",
-      "ano": 1997,
-      "mes": 9
-    }
-  },
-  {
     "id": "roberto-aci-1997",
     "title": "Roberto Rodrigues na Presidência da ACI",
     "extendedProps": {
@@ -9492,8 +9492,8 @@
       "local": "",
       "resumo": "Eleito em assembleia na Suíça, o ex-presidente da OCB torna-se o primeiro líder não europeu a comandar a Aliança Cooperativa Internacional em mais de 100 anos.",
       "descricao": "",
-      "link": "",
-      "imagem": "",
+      "link": "https://agro.fgv.br/node/49",
+      "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Roberto_Rodrigues_em_julho_de_2019_%28recorte%29.jpg/250px-Roberto_Rodrigues_em_julho_de_2019_%28recorte%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "fonte": "Diva Pinho - Adriana Amaral",
       "relembrar": false,
       "evidenciar": false,
@@ -11692,8 +11692,8 @@
       "local": "",
       "resumo": "A Lei Federal nº 12.205 confere formalmente a Nova Petrópolis (RS) o título em reconhecimento ao pioneirismo do Padre Amstad.",
       "descricao": "",
-      "link": "",
-      "imagem": "",
+      "link": "https://www.novapetropolis.rs.gov.br/pagina/capital-nacional-do-cooperativismo",
+      "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Brazil_location_map.svg/330px-Brazil_location_map.svg.png?utm_source=pt.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "fonte": "Diva Pinho - Adriana Amaral",
       "relembrar": false,
       "evidenciar": false,
@@ -13277,7 +13277,7 @@
     "start": "2019-12-02"
   },
   {
-    "id": "padre-13926-2019",
+    "id": "padre-13926-2019-2019",
     "title": "Padre Amstad Patrono Nacional (Lei nº 13.926)",
     "extendedProps": {
       "tipo": "efeméride",
@@ -13286,12 +13286,14 @@
       "local": "",
       "resumo": "Promulgação da lei federal que oficializa o jesuíta suíço Theodor Amstad como Patrono do Cooperativismo Brasileiro.",
       "descricao": "",
-      "link": "",
-      "imagem": "",
-      "fonte": "Diva Pinho - Adriana Amaral",
+      "link": "https://portal.ocbes.coop.br/pt/publicacoes/noticias/-padre-theodor-amstad-o-legado-do-patrono-do-cooperativismo-brasileiro/",
+      "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_p3dxcQfZwu2tZMS5AKQkmsoWyzMqxXDBkZSG-OQOY8ZSXCeS852z100_ALA3req7rFKBMX7DdnaMcGO4LX-tefrHHBSLSsYd_e5jcvyMsiF9jxWmnhyphenhyphen8LAuSDptiAFOVCuJ4CfzTJQMDm0H-k7FlM_PkkwhZo0edLEhK5HZzinkTivhAWxWWKyYZd_k/s1645/Gemini_Generated_Image_dao2izdao2izdao2.jpg",
+      "fonte": "Legislação Federal",
       "relembrar": false,
       "evidenciar": false,
-      "precisao": "dia"
+      "precisao": "dia",
+      "ano_origem": 2019,
+      "edicao": 0
     },
     "allDay": true,
     "start": "2019-12-09"
@@ -13449,6 +13451,28 @@
     "start": "2020-12-02"
   },
   {
+    "id": "padre-13926-2019-2020",
+    "title": "Padre Amstad Patrono Nacional (Lei nº 13.926)",
+    "extendedProps": {
+      "tipo": "efeméride",
+      "categoria": "Legislativo",
+      "tags": [],
+      "local": "",
+      "resumo": "Promulgação da lei federal que oficializa o jesuíta suíço Theodor Amstad como Patrono do Cooperativismo Brasileiro.",
+      "descricao": "",
+      "link": "https://portal.ocbes.coop.br/pt/publicacoes/noticias/-padre-theodor-amstad-o-legado-do-patrono-do-cooperativismo-brasileiro/",
+      "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_p3dxcQfZwu2tZMS5AKQkmsoWyzMqxXDBkZSG-OQOY8ZSXCeS852z100_ALA3req7rFKBMX7DdnaMcGO4LX-tefrHHBSLSsYd_e5jcvyMsiF9jxWmnhyphenhyphen8LAuSDptiAFOVCuJ4CfzTJQMDm0H-k7FlM_PkkwhZo0edLEhK5HZzinkTivhAWxWWKyYZd_k/s1645/Gemini_Generated_Image_dao2izdao2izdao2.jpg",
+      "fonte": "Legislação Federal",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia",
+      "ano_origem": 2019,
+      "edicao": 1
+    },
+    "allDay": true,
+    "start": "2020-12-09"
+  },
+  {
     "id": "lei-5764-2020",
     "title": "Lei Geral do Cooperativismo",
     "extendedProps": {
@@ -13599,6 +13623,28 @@
     },
     "allDay": true,
     "start": "2021-12-02"
+  },
+  {
+    "id": "padre-13926-2019-2021",
+    "title": "Padre Amstad Patrono Nacional (Lei nº 13.926)",
+    "extendedProps": {
+      "tipo": "efeméride",
+      "categoria": "Legislativo",
+      "tags": [],
+      "local": "",
+      "resumo": "Promulgação da lei federal que oficializa o jesuíta suíço Theodor Amstad como Patrono do Cooperativismo Brasileiro.",
+      "descricao": "",
+      "link": "https://portal.ocbes.coop.br/pt/publicacoes/noticias/-padre-theodor-amstad-o-legado-do-patrono-do-cooperativismo-brasileiro/",
+      "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_p3dxcQfZwu2tZMS5AKQkmsoWyzMqxXDBkZSG-OQOY8ZSXCeS852z100_ALA3req7rFKBMX7DdnaMcGO4LX-tefrHHBSLSsYd_e5jcvyMsiF9jxWmnhyphenhyphen8LAuSDptiAFOVCuJ4CfzTJQMDm0H-k7FlM_PkkwhZo0edLEhK5HZzinkTivhAWxWWKyYZd_k/s1645/Gemini_Generated_Image_dao2izdao2izdao2.jpg",
+      "fonte": "Legislação Federal",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia",
+      "ano_origem": 2019,
+      "edicao": 2
+    },
+    "allDay": true,
+    "start": "2021-12-09"
   },
   {
     "id": "lei-5764-2021",
@@ -13753,6 +13799,28 @@
     "start": "2022-12-02"
   },
   {
+    "id": "padre-13926-2019-2022",
+    "title": "Padre Amstad Patrono Nacional (Lei nº 13.926)",
+    "extendedProps": {
+      "tipo": "efeméride",
+      "categoria": "Legislativo",
+      "tags": [],
+      "local": "",
+      "resumo": "Promulgação da lei federal que oficializa o jesuíta suíço Theodor Amstad como Patrono do Cooperativismo Brasileiro.",
+      "descricao": "",
+      "link": "https://portal.ocbes.coop.br/pt/publicacoes/noticias/-padre-theodor-amstad-o-legado-do-patrono-do-cooperativismo-brasileiro/",
+      "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_p3dxcQfZwu2tZMS5AKQkmsoWyzMqxXDBkZSG-OQOY8ZSXCeS852z100_ALA3req7rFKBMX7DdnaMcGO4LX-tefrHHBSLSsYd_e5jcvyMsiF9jxWmnhyphenhyphen8LAuSDptiAFOVCuJ4CfzTJQMDm0H-k7FlM_PkkwhZo0edLEhK5HZzinkTivhAWxWWKyYZd_k/s1645/Gemini_Generated_Image_dao2izdao2izdao2.jpg",
+      "fonte": "Legislação Federal",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia",
+      "ano_origem": 2019,
+      "edicao": 3
+    },
+    "allDay": true,
+    "start": "2022-12-09"
+  },
+  {
     "id": "lei-5764-2022",
     "title": "Lei Geral do Cooperativismo",
     "extendedProps": {
@@ -13903,6 +13971,28 @@
     },
     "allDay": true,
     "start": "2023-12-02"
+  },
+  {
+    "id": "padre-13926-2019-2023",
+    "title": "Padre Amstad Patrono Nacional (Lei nº 13.926)",
+    "extendedProps": {
+      "tipo": "efeméride",
+      "categoria": "Legislativo",
+      "tags": [],
+      "local": "",
+      "resumo": "Promulgação da lei federal que oficializa o jesuíta suíço Theodor Amstad como Patrono do Cooperativismo Brasileiro.",
+      "descricao": "",
+      "link": "https://portal.ocbes.coop.br/pt/publicacoes/noticias/-padre-theodor-amstad-o-legado-do-patrono-do-cooperativismo-brasileiro/",
+      "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_p3dxcQfZwu2tZMS5AKQkmsoWyzMqxXDBkZSG-OQOY8ZSXCeS852z100_ALA3req7rFKBMX7DdnaMcGO4LX-tefrHHBSLSsYd_e5jcvyMsiF9jxWmnhyphenhyphen8LAuSDptiAFOVCuJ4CfzTJQMDm0H-k7FlM_PkkwhZo0edLEhK5HZzinkTivhAWxWWKyYZd_k/s1645/Gemini_Generated_Image_dao2izdao2izdao2.jpg",
+      "fonte": "Legislação Federal",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia",
+      "ano_origem": 2019,
+      "edicao": 4
+    },
+    "allDay": true,
+    "start": "2023-12-09"
   },
   {
     "id": "lei-5764-2023",
@@ -14075,6 +14165,28 @@
     },
     "allDay": true,
     "start": "2024-12-02"
+  },
+  {
+    "id": "padre-13926-2019-2024",
+    "title": "Padre Amstad Patrono Nacional (Lei nº 13.926)",
+    "extendedProps": {
+      "tipo": "efeméride",
+      "categoria": "Legislativo",
+      "tags": [],
+      "local": "",
+      "resumo": "Promulgação da lei federal que oficializa o jesuíta suíço Theodor Amstad como Patrono do Cooperativismo Brasileiro.",
+      "descricao": "",
+      "link": "https://portal.ocbes.coop.br/pt/publicacoes/noticias/-padre-theodor-amstad-o-legado-do-patrono-do-cooperativismo-brasileiro/",
+      "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_p3dxcQfZwu2tZMS5AKQkmsoWyzMqxXDBkZSG-OQOY8ZSXCeS852z100_ALA3req7rFKBMX7DdnaMcGO4LX-tefrHHBSLSsYd_e5jcvyMsiF9jxWmnhyphenhyphen8LAuSDptiAFOVCuJ4CfzTJQMDm0H-k7FlM_PkkwhZo0edLEhK5HZzinkTivhAWxWWKyYZd_k/s1645/Gemini_Generated_Image_dao2izdao2izdao2.jpg",
+      "fonte": "Legislação Federal",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia",
+      "ano_origem": 2019,
+      "edicao": 5
+    },
+    "allDay": true,
+    "start": "2024-12-09"
   },
   {
     "id": "lei-5764-2024",
@@ -14294,6 +14406,28 @@
     "start": "2025-12-09"
   },
   {
+    "id": "padre-13926-2019-2025",
+    "title": "Padre Amstad Patrono Nacional (Lei nº 13.926)",
+    "extendedProps": {
+      "tipo": "efeméride",
+      "categoria": "Legislativo",
+      "tags": [],
+      "local": "",
+      "resumo": "Promulgação da lei federal que oficializa o jesuíta suíço Theodor Amstad como Patrono do Cooperativismo Brasileiro.",
+      "descricao": "",
+      "link": "https://portal.ocbes.coop.br/pt/publicacoes/noticias/-padre-theodor-amstad-o-legado-do-patrono-do-cooperativismo-brasileiro/",
+      "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_p3dxcQfZwu2tZMS5AKQkmsoWyzMqxXDBkZSG-OQOY8ZSXCeS852z100_ALA3req7rFKBMX7DdnaMcGO4LX-tefrHHBSLSsYd_e5jcvyMsiF9jxWmnhyphenhyphen8LAuSDptiAFOVCuJ4CfzTJQMDm0H-k7FlM_PkkwhZo0edLEhK5HZzinkTivhAWxWWKyYZd_k/s1645/Gemini_Generated_Image_dao2izdao2izdao2.jpg",
+      "fonte": "Legislação Federal",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia",
+      "ano_origem": 2019,
+      "edicao": 6
+    },
+    "allDay": true,
+    "start": "2025-12-09"
+  },
+  {
     "id": "lei-5764-2025",
     "title": "Lei Geral do Cooperativismo",
     "extendedProps": {
@@ -14444,6 +14578,28 @@
     },
     "allDay": true,
     "start": "2026-12-02"
+  },
+  {
+    "id": "padre-13926-2019-2026",
+    "title": "Padre Amstad Patrono Nacional (Lei nº 13.926)",
+    "extendedProps": {
+      "tipo": "efeméride",
+      "categoria": "Legislativo",
+      "tags": [],
+      "local": "",
+      "resumo": "Promulgação da lei federal que oficializa o jesuíta suíço Theodor Amstad como Patrono do Cooperativismo Brasileiro.",
+      "descricao": "",
+      "link": "https://portal.ocbes.coop.br/pt/publicacoes/noticias/-padre-theodor-amstad-o-legado-do-patrono-do-cooperativismo-brasileiro/",
+      "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_p3dxcQfZwu2tZMS5AKQkmsoWyzMqxXDBkZSG-OQOY8ZSXCeS852z100_ALA3req7rFKBMX7DdnaMcGO4LX-tefrHHBSLSsYd_e5jcvyMsiF9jxWmnhyphenhyphen8LAuSDptiAFOVCuJ4CfzTJQMDm0H-k7FlM_PkkwhZo0edLEhK5HZzinkTivhAWxWWKyYZd_k/s1645/Gemini_Generated_Image_dao2izdao2izdao2.jpg",
+      "fonte": "Legislação Federal",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia",
+      "ano_origem": 2019,
+      "edicao": 7
+    },
+    "allDay": true,
+    "start": "2026-12-09"
   },
   {
     "id": "lei-5764-2026",
@@ -14598,6 +14754,28 @@
     "start": "2027-12-02"
   },
   {
+    "id": "padre-13926-2019-2027",
+    "title": "Padre Amstad Patrono Nacional (Lei nº 13.926)",
+    "extendedProps": {
+      "tipo": "efeméride",
+      "categoria": "Legislativo",
+      "tags": [],
+      "local": "",
+      "resumo": "Promulgação da lei federal que oficializa o jesuíta suíço Theodor Amstad como Patrono do Cooperativismo Brasileiro.",
+      "descricao": "",
+      "link": "https://portal.ocbes.coop.br/pt/publicacoes/noticias/-padre-theodor-amstad-o-legado-do-patrono-do-cooperativismo-brasileiro/",
+      "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_p3dxcQfZwu2tZMS5AKQkmsoWyzMqxXDBkZSG-OQOY8ZSXCeS852z100_ALA3req7rFKBMX7DdnaMcGO4LX-tefrHHBSLSsYd_e5jcvyMsiF9jxWmnhyphenhyphen8LAuSDptiAFOVCuJ4CfzTJQMDm0H-k7FlM_PkkwhZo0edLEhK5HZzinkTivhAWxWWKyYZd_k/s1645/Gemini_Generated_Image_dao2izdao2izdao2.jpg",
+      "fonte": "Legislação Federal",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia",
+      "ano_origem": 2019,
+      "edicao": 8
+    },
+    "allDay": true,
+    "start": "2027-12-09"
+  },
+  {
     "id": "lei-5764-2027",
     "title": "Lei Geral do Cooperativismo",
     "extendedProps": {
@@ -14748,6 +14926,28 @@
     },
     "allDay": true,
     "start": "2028-12-02"
+  },
+  {
+    "id": "padre-13926-2019-2028",
+    "title": "Padre Amstad Patrono Nacional (Lei nº 13.926)",
+    "extendedProps": {
+      "tipo": "efeméride",
+      "categoria": "Legislativo",
+      "tags": [],
+      "local": "",
+      "resumo": "Promulgação da lei federal que oficializa o jesuíta suíço Theodor Amstad como Patrono do Cooperativismo Brasileiro.",
+      "descricao": "",
+      "link": "https://portal.ocbes.coop.br/pt/publicacoes/noticias/-padre-theodor-amstad-o-legado-do-patrono-do-cooperativismo-brasileiro/",
+      "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_p3dxcQfZwu2tZMS5AKQkmsoWyzMqxXDBkZSG-OQOY8ZSXCeS852z100_ALA3req7rFKBMX7DdnaMcGO4LX-tefrHHBSLSsYd_e5jcvyMsiF9jxWmnhyphenhyphen8LAuSDptiAFOVCuJ4CfzTJQMDm0H-k7FlM_PkkwhZo0edLEhK5HZzinkTivhAWxWWKyYZd_k/s1645/Gemini_Generated_Image_dao2izdao2izdao2.jpg",
+      "fonte": "Legislação Federal",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia",
+      "ano_origem": 2019,
+      "edicao": 9
+    },
+    "allDay": true,
+    "start": "2028-12-09"
   },
   {
     "id": "lei-5764-2028",
