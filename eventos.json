@@ -1,5 +1,165 @@
 [
   {
+    "id": "quilombo-palmares-1600",
+    "title": "Quilombo dos Palmares",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Comunidade de resistência de 20 a 30 mil habitantes no Rio São Francisco, estruturada sob uso comum da terra, deliberações coletivas e ajuda mútua.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1600,
+      "mes": null
+    }
+  },
+  {
+    "id": "sociedade-weavers-1761",
+    "title": "Sociedade dos Tecelões de Fenwick (Fenwick Weavers)",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Primeira experiência cooperativa formal documentada no mundo, fundada na Escócia para compra coletiva de insumos e assistência financeira mútua.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1761,
+      "mes": null
+    }
+  },
+  {
+    "id": "gesto-lanark-1800",
+    "title": "Gestão Cooperativa de New Lanark",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Robert Owen assume a administração da fábrica têxtil na Escócia, criando moradias operárias, escolas infantis e armazém comunitário a preço de custo.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia"
+    },
+    "allDay": true,
+    "start": "1800-01-01"
+  },
+  {
+    "id": "publicao-movimentos-1808",
+    "title": "Publicação da \"Teoria dos Quatro Movimentos\"",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Charles Fourier estrutura as bases doutrinárias do socialismo utópico e do associativismo falanstérico com trabalho cooperativo integral.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1808,
+      "mes": null
+    }
+  },
+  {
+    "id": "comunidade-harmony-1825",
+    "title": "Comunidade Experimental de New Harmony",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Robert Owen institui nos Estados Unidos uma colônia comunitária experimental de trabalho cooperativo e abolição do lucro individual.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1825,
+      "mes": null
+    }
+  },
+  {
+    "id": "lanamento-co-operator-1828",
+    "title": "Lançamento do Periódico The Co-operator",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Dr. William King inicia a difusão da doutrina de cooperativas de consumo e produção operária por meio de boletins mensais na Inglaterra.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1828,
+      "mes": null
+    }
+  },
+  {
+    "id": "teoria-buchez-1832",
+    "title": "Teoria da Cooperativa de Produção de Buchez",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Philippe Buchez propõe na revista L'Européen o modelo de cooperativa operária de trabalho com fundo de reserva comum indivisível e inalienável.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1832,
+      "mes": null
+    }
+  },
+  {
+    "id": "falanstrios-brasil-1840",
+    "title": "Falanstérios Fourieristas no Brasil",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Instalação de colônias industriais e agrícolas cooperativas de inspiração francesa, como a Colônia do Saí (SC, 1841) e a Colônia Teresa Cristina (PR, 1847).",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1840,
+      "mes": null
+    }
+  },
+  {
     "id": "rochdale-1844-1844",
     "title": "Abertura do armazém dos Pioneiros de Rochdale",
     "extendedProps": {
@@ -24,6 +184,26 @@
     },
     "allDay": true,
     "start": "1844-12-21"
+  },
+  {
+    "id": "sociedade-sobotite-1845",
+    "title": "Sociedade de Crédito de Sobotište",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Samuel Jurkovič cria na atual Eslováquia uma das primeiras cooperativas de crédito rural mútuo da Europa central.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1845,
+      "mes": null
+    }
   },
   {
     "id": "rochdale-1844-1845",
@@ -76,6 +256,26 @@
     },
     "allDay": true,
     "start": "1846-12-21"
+  },
+  {
+    "id": "modelo-raiffeisen-1847",
+    "title": "Modelo de Crédito Rural Raiffeisen",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Friedrich Wilhelm Raiffeisen organiza as primeiras associações de crédito e socorro mútuo rural na Alemanha, com responsabilidade solidária ilimitada.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1847,
+      "mes": null
+    }
   },
   {
     "id": "rochdale-1844-1847",
@@ -154,6 +354,46 @@
     },
     "allDay": true,
     "start": "1849-12-21"
+  },
+  {
+    "id": "modelo-schulze-delitzsch-1850",
+    "title": "Modelo de Crédito Urbano Schulze-Delitzsch",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Hermann Schulze-Delitzsch funda em Delitzsch (Alemanha) a primeira cooperativa de crédito voltada a pequenos industriais e comerciantes urbanos.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1850,
+      "mes": null
+    }
+  },
+  {
+    "id": "surgimento-bauernverein-1850",
+    "title": "Surgimento dos Bauernverein",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Sociedades camponesas de assistência mútua, seguros comunitários e amparo agrícola estabelecidas por imigrantes alemães no Rio Grande do Sul e Santa Catarina.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1850,
+      "mes": null
+    }
   },
   {
     "id": "rochdale-1844-1850",
@@ -364,6 +604,26 @@
     "start": "1857-12-21"
   },
   {
+    "id": "sociedade-mtuo-1858",
+    "title": "Sociedade Alemã de Amparo Mútuo",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Criação de associação de auxílio médico, previdenciário e funerário para imigrantes germânicos estabelecidos no Brasil.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1858,
+      "mes": null
+    }
+  },
+  {
     "id": "rochdale-1844-1858",
     "title": "Abertura do armazém dos Pioneiros de Rochdale",
     "extendedProps": {
@@ -414,6 +674,26 @@
     },
     "allDay": true,
     "start": "1859-12-21"
+  },
+  {
+    "id": "promulgao-1083-1860",
+    "title": "Promulgação da \"Lei dos Entraves\" (Lei nº 1.083)",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Diploma do Império que impôs rigorosas restrições burocráticas à fundação de sociedades anônimas e civis, freando empreendimentos associativos.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia"
+    },
+    "allDay": true,
+    "start": "1860-08-22"
   },
   {
     "id": "rochdale-1844-1860",
@@ -494,6 +774,26 @@
     "start": "1862-12-21"
   },
   {
+    "id": "fundao-cws-1863",
+    "title": "Fundação da Co-operative Wholesale Society (CWS)",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Marco do cooperativismo atacadista inglês: cooperativas singulares unem-se em escala industrial e logística para abastecer cooperativas de varejo.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1863,
+      "mes": null
+    }
+  },
+  {
     "id": "rochdale-1844-1863",
     "title": "Abertura do armazém dos Pioneiros de Rochdale",
     "extendedProps": {
@@ -520,6 +820,26 @@
     "start": "1863-12-21"
   },
   {
+    "id": "debate-imperial-1864",
+    "title": "Debate de Crédito Mútuo no Senado Imperial",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "O Senador Bernardo de Sousa Franco apresenta o primeiro projeto legislativo no Parlamento brasileiro para a criação de Bancos de Crédito Mútuo.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia"
+    },
+    "allDay": true,
+    "start": "1864-04-06"
+  },
+  {
     "id": "rochdale-1844-1864",
     "title": "Abertura do armazém dos Pioneiros de Rochdale",
     "extendedProps": {
@@ -544,6 +864,26 @@
     },
     "allDay": true,
     "start": "1864-12-21"
+  },
+  {
+    "id": "fundao-milo-1865",
+    "title": "Fundação do Banco Popular de Milão",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Luigi Luzzatti adapta o modelo de crédito urbano à realidade italiana, fundando banco de crédito popular com responsabilidade limitada por cotas.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia"
+    },
+    "allDay": true,
+    "start": "1865-12-12"
   },
   {
     "id": "rochdale-1844-1865",
@@ -650,6 +990,26 @@
     "start": "1868-12-21"
   },
   {
+    "id": "tentativa-sp-1869",
+    "title": "Tentativa da Sociedade Cooperativa Predial (SP)",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Estatutos publicados pela Loja Maçônica América para cooperativa habitacional operária, pioneira ao consagrar expressamente o voto singular (\"um homem, um voto\").",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia"
+    },
+    "allDay": true,
+    "start": "1869-05-14"
+  },
+  {
     "id": "rochdale-1844-1869",
     "title": "Abertura do armazém dos Pioneiros de Rochdale",
     "extendedProps": {
@@ -726,6 +1086,46 @@
     },
     "allDay": true,
     "start": "1871-12-21"
+  },
+  {
+    "id": "movimento-rs-1872",
+    "title": "Movimento Comunitário dos Muckers (RS)",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Vida comunitária messiânica liderada por Jacobina Mentz Maurer no Vale do Rio dos Sinos, encerrada em 1874 com o cerco militar ao Morro Ferrabraz.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1872,
+      "mes": null
+    }
+  },
+  {
+    "id": "associao-recife-1872",
+    "title": "Associação Cooperativa Predial de Recife",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Criada pelo Decreto Imperial nº 5.084 como iniciativa habitacional; foi dissolvida por dificuldades operacionais em 1874.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia"
+    },
+    "allDay": true,
+    "start": "1872-09-11"
   },
   {
     "id": "rochdale-1844-1872",
@@ -832,6 +1232,46 @@
     "start": "1875-12-21"
   },
   {
+    "id": "autorizao-auxiliar-1876",
+    "title": "Autorização da Sociedade União Auxiliar",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "O Decreto Imperial nº 6.157 autoriza o funcionamento da Sociedade Cooperativa União Auxiliar do Commercio, Industria e Lavoura.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia"
+    },
+    "allDay": true,
+    "start": "1876-03-24"
+  },
+  {
+    "id": "autorizao-consumo-1876",
+    "title": "Autorização da Sociedade Cooperativa de Consumo",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "O Decreto Imperial nº 6.186 autoriza e aprova os estatutos de sociedade cooperativa de consumo no Rio de Janeiro.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia"
+    },
+    "allDay": true,
+    "start": "1876-04-26"
+  },
+  {
     "id": "rochdale-1844-1876",
     "title": "Abertura do armazém dos Pioneiros de Rochdale",
     "extendedProps": {
@@ -856,6 +1296,26 @@
     },
     "allDay": true,
     "start": "1876-12-21"
+  },
+  {
+    "id": "criao-po-1876",
+    "title": "Criação da Cooperativa de Consumo do Pão",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "O Decreto Imperial nº 6.447 autoriza a instalação de cooperativa de panificação e abastecimento de farinha em Niterói (RJ).",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia"
+    },
+    "allDay": true,
+    "start": "1876-12-30"
   },
   {
     "id": "rochdale-1844-1877",
@@ -1066,6 +1526,26 @@
     "start": "1884-12-21"
   },
   {
+    "id": "misso-pellizzetti-1885",
+    "title": "Missão Pastoral dos Padres Amstad e Pellizzetti",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "O jesuíta suíço Theodor Amstad chega ao RS para atuar entre colonos alemães; no mesmo período, Pe. Ermembergo Pellizzetti organiza núcleos entre imigrantes italianos.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1885,
+      "mes": null
+    }
+  },
+  {
     "id": "rochdale-1844-1885",
     "title": "Abertura do armazém dos Pioneiros de Rochdale",
     "extendedProps": {
@@ -1170,6 +1650,46 @@
     "start": "1888-12-21"
   },
   {
+    "id": "santana-frana-1889",
+    "title": "Santana Nery no Congresso da França",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "O amazonense Santana Nery torna-se o primeiro brasileiro documentado a participar de congresso cooperativo europeu, em Paris.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1889,
+      "mes": null
+    }
+  },
+  {
+    "id": "primeira-brasil-1889",
+    "title": "Primeira Cooperativa Formal do Brasil",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Fundação da Sociedade Cooperativa Econômica dos Funcionários Públicos de Ouro Preto (MG), constituída sob a Lei de S/A para consumo, farmácia e crédito mútuo.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia"
+    },
+    "allDay": true,
+    "start": "1889-10-27"
+  },
+  {
     "id": "rochdale-1844-1889",
     "title": "Abertura do armazém dos Pioneiros de Rochdale",
     "extendedProps": {
@@ -1194,6 +1714,26 @@
     },
     "allDay": true,
     "start": "1889-12-21"
+  },
+  {
+    "id": "primeiros-cooperativas-1890",
+    "title": "Primeiros Decretos da República para Cooperativas",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "O Governo Provisório edita os Decretos nº 731 e nº 796 autorizando o funcionamento de cooperativas para ferroviários em SP e militares no RJ.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1890,
+      "mes": null
+    }
   },
   {
     "id": "rochdale-1844-1890",
@@ -1222,6 +1762,46 @@
     "start": "1890-12-21"
   },
   {
+    "id": "cooperativa-sp-1891",
+    "title": "Cooperativa Telefônica de Limeira (SP)",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Empregados da Cia. Telefônica criam cooperativa de consumo e auxílio mútuo no interior paulista.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1891,
+      "mes": null
+    }
+  },
+  {
+    "id": "garantia-cf1891-1891",
+    "title": "Garantia da Liberdade de Associação (CF/1891)",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "O Art. 72, § 8º da primeira Constituição republicana assegura o direito pleno de reunião e associação pacífica, dando amparo legal às cooperativas.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia"
+    },
+    "allDay": true,
+    "start": "1891-02-24"
+  },
+  {
     "id": "rochdale-1844-1891",
     "title": "Abertura do armazém dos Pioneiros de Rochdale",
     "extendedProps": {
@@ -1246,6 +1826,26 @@
     },
     "allDay": true,
     "start": "1891-12-21"
+  },
+  {
+    "id": "primeira-brasil-1892",
+    "title": "Primeira Cooperativa Agropecuária do Brasil",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Fundação da Società Cooperativa delle Convenzioni Agricoli por colonos italianos em Alfredo Chaves (Veranópolis) e Antônio Prado (RS), com Vicente Monteggia.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1892,
+      "mes": null
+    }
   },
   {
     "id": "rochdale-1844-1892",
@@ -1274,6 +1874,26 @@
     "start": "1892-12-21"
   },
   {
+    "id": "comunidade-monte-1893",
+    "title": "Comunidade Solidária de Canudos / Belo Monte",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Antônio Conselheiro ergue a comunidade sertaneja às margens do Rio Vaza-Barris com uso comunal da terra e divisão do trabalho agrícola e pastoril.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1893,
+      "mes": null
+    }
+  },
+  {
     "id": "rochdale-1844-1893",
     "title": "Abertura do armazém dos Pioneiros de Rochdale",
     "extendedProps": {
@@ -1300,6 +1920,26 @@
     "start": "1893-12-21"
   },
   {
+    "id": "criao-rj-1894",
+    "title": "Criação da Cooperativa Militar de Consumo (RJ)",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Oficiais e praças do Exército constituem no Rio de Janeiro entreposto cooperativo de gêneros de subsistência e confecções.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1894,
+      "mes": null
+    }
+  },
+  {
     "id": "rochdale-1844-1894",
     "title": "Abertura do armazém dos Pioneiros de Rochdale",
     "extendedProps": {
@@ -1324,6 +1964,66 @@
     },
     "allDay": true,
     "start": "1894-12-21"
+  },
+  {
+    "id": "cooperativa-pe-1895",
+    "title": "Cooperativa de Consumo de Camaragibe (PE)",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Operários têxteis da fábrica de Camaragibe organizam cooperativa de abastecimento alimentar para baratear o custo de vida fabril.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1895,
+      "mes": null
+    }
+  },
+  {
+    "id": "lei-sp-1895",
+    "title": "Lei de Isenção Fiscal de Campinas (SP)",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "A Lei Municipal nº 36 isenta cooperativas de consumo de tributos locais, tornando-se o primeiro incentivo fiscal municipal documentado no país.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1895,
+      "mes": null
+    }
+  },
+  {
+    "id": "fundao-aci-1895",
+    "title": "Fundação da Aliança Cooperativa Internacional (ACI)",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Criação da entidade máxima global de integração e representação do movimento cooperativo durante congresso inaugural em Londres.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia"
+    },
+    "allDay": true,
+    "start": "1895-08-19"
   },
   {
     "id": "rochdale-1844-1895",
@@ -1376,6 +2076,26 @@
     },
     "allDay": true,
     "start": "1896-12-21"
+  },
+  {
+    "id": "armazns-jundia-1897",
+    "title": "Armazéns Cooperativos da Cia. Paulista (Jundiaí)",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Empregados da ferrovia constituem cooperativa de consumo para aquisição direta de gêneros alimentícios e insumos domésticos.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1897,
+      "mes": null
+    }
   },
   {
     "id": "congress-1-aic",
@@ -1450,6 +2170,26 @@
     "start": "1898-12-21"
   },
   {
+    "id": "fundao-rs-1899",
+    "title": "Fundação da Associação de Agricultores do RS",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Pe. Theodor Amstad, João Rick e Hugo Metzler articulam a criação de entidade sindical-associativa para orientar pequenos produtores agrícolas gaúchos.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1899,
+      "mes": null
+    }
+  },
+  {
     "id": "rochdale-1844-1899",
     "title": "Abertura do armazém dos Pioneiros de Rochdale",
     "extendedProps": {
@@ -1474,6 +2214,26 @@
     },
     "allDay": true,
     "start": "1899-12-21"
+  },
+  {
+    "id": "traduo-raiffeisen-1900",
+    "title": "Tradução da Doutrina de Crédito Raiffeisen",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Obra clássica de C. W. Kaiser sobre funcionamento de caixas rurais de empréstimo mútuo é traduzida e distribuída na Bahia.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1900,
+      "mes": null
+    }
   },
   {
     "id": "rochdale-1844-1900",
@@ -1554,6 +2314,86 @@
     "start": "1902-12-21"
   },
   {
+    "id": "fundao-brasil-1902",
+    "title": "Fundação da Primeira Cooperativa de Crédito do Brasil",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Pe. Theodor Amstad funda a Caixa de Economias e Empréstimos Amstad em Nova Petrópolis (RS), matriz do modelo Raiffeisen e berço da Sicredi Pioneira.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia"
+    },
+    "allDay": true,
+    "start": "1902-12-28"
+  },
+  {
+    "id": "sociedade-agricultura-1903",
+    "title": "Sociedade Catarinense de Agricultura",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Gustavo Lebon Régis estimula a organização de cooperativas de produção e sindicatos rurais em Santa Catarina.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1903,
+      "mes": null
+    }
+  },
+  {
+    "id": "defesa-sp-1903",
+    "title": "Defesa Cooperativa contra a Crise do Café (SP)",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Secretaria da Agricultura de SP estimula cooperativas de produtores para mitigar a queda das cotações mundiais e intermediar vendas.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1903,
+      "mes": null
+    }
+  },
+  {
+    "id": "promulgao-979-1903",
+    "title": "Promulgação do Decreto Federal nº 979",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Primeira legislação republicana a regulamentar sindicatos agrícolas e facultar expressamente a abertura de caixas de crédito mútuo rural.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia"
+    },
+    "allDay": true,
+    "start": "1903-01-06"
+  },
+  {
     "id": "rochdale-1844-1903",
     "title": "Abertura do armazém dos Pioneiros de Rochdale",
     "extendedProps": {
@@ -1632,6 +2472,26 @@
     "start": "1905-12-21"
   },
   {
+    "id": "primeira-brasil-1906",
+    "title": "Primeira Cooperativa Luzzatti do Brasil",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Pe. Theodor Amstad institui em Lajeado (RS) a primeira cooperativa mista e urbana baseada no modelo italiano Luzzatti de cotas limitadas.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1906,
+      "mes": null
+    }
+  },
+  {
     "id": "rochdale-1844-1906",
     "title": "Abertura do armazém dos Pioneiros de Rochdale",
     "extendedProps": {
@@ -1656,6 +2516,46 @@
     },
     "allDay": true,
     "start": "1906-12-21"
+  },
+  {
+    "id": "criao-gerais-1907",
+    "title": "Criação de Cooperativas em Minas Gerais",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "O estadista João Pinheiro incentiva redes cooperativas agrícolas e laticinistas entre produtores de leite, café e milho em Minas Gerais.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1907,
+      "mes": null
+    }
+  },
+  {
+    "id": "primeira-1637-1907",
+    "title": "Primeira Lei Orgânica das Cooperativas (Decreto nº 1.637)",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Marco normativo basilar da Primeira República para organização e funcionamento societário de sindicatos e sociedades cooperativas.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia"
+    },
+    "allDay": true,
+    "start": "1907-01-15"
   },
   {
     "id": "rochdale-1844-1907",
@@ -1760,6 +2660,26 @@
     },
     "allDay": true,
     "start": "1910-12-21"
+  },
+  {
+    "id": "cooperativas-artfices-1911",
+    "title": "Cooperativas nas Escolas de Aprendizes Artífices",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "O Decreto nº 9.070, assinado pelo Marechal Hermes da Fonseca, autoriza cooperativas de mutualidade nos centros de ensino técnico (atuais CEFETs/IFs).",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia"
+    },
+    "allDay": true,
+    "start": "1911-10-25"
   },
   {
     "id": "rochdale-1844-1911",
@@ -2176,6 +3096,26 @@
     "start": "1924-12-21"
   },
   {
+    "id": "primeira-brasil-1925",
+    "title": "Primeira Central de Crédito Cooperativo do Brasil",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Fundação da central cooperativa de segundo grau em Porto Alegre (RS), unificando a gestão de liquidez das caixas rurais Raiffeisen.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1925,
+      "mes": null
+    }
+  },
+  {
     "id": "primeiro-dia-internacional-1925",
     "title": "Primeiro Dia Internacional do Cooperativismo",
     "extendedProps": {
@@ -2303,6 +3243,26 @@
     "start": "1927-07-07"
   },
   {
+    "id": "fundao-cac-1927",
+    "title": "Fundação da Cooperativa Agrícola de Cotia (CAC)",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "83 produtores imigrantes japoneses de batata fundam a CAC em São Paulo, que viria a ser a maior central agropecuária do país.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia"
+    },
+    "allDay": true,
+    "start": "1927-12-11"
+  },
+  {
     "id": "rochdale-1844-1927",
     "title": "Abertura do armazém dos Pioneiros de Rochdale",
     "extendedProps": {
@@ -2354,6 +3314,26 @@
     "start": "1928-07-07"
   },
   {
+    "id": "cooperativa-paraba-1928",
+    "title": "Cooperativa de Crédito Urbano na Paraíba",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Constituição de cooperativa de crédito singular de primeiro grau estruturada segundo a doutrina Luzzatti em território paraibano.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia"
+    },
+    "allDay": true,
+    "start": "1928-12-08"
+  },
+  {
     "id": "rochdale-1844-1928",
     "title": "Abertura do armazém dos Pioneiros de Rochdale",
     "extendedProps": {
@@ -2378,6 +3358,46 @@
     },
     "allDay": true,
     "start": "1928-12-21"
+  },
+  {
+    "id": "campanhas-autntico-1929",
+    "title": "Campanhas Oficiais Pró-Cooperativismo Autêntico",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Ministério da Agricultura, liderado por Fábio Luz Filho e Artur Torres Filho, promove campanhas para coibir o desvirtuamento de cooperativas de crédito.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1929,
+      "mes": null
+    }
+  },
+  {
+    "id": "banco-luzzatti-1929",
+    "title": "Banco Central de Minas Gerais (Crédito Luzzatti)",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Constituição de cooperativa central de crédito mútuo de modelo urbano em Belo Horizonte (MG).",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia"
+    },
+    "allDay": true,
+    "start": "1929-02-15"
   },
   {
     "id": "primeiro-dia-internacional-1929",
@@ -2558,6 +3578,26 @@
     "start": "1932-07-07"
   },
   {
+    "id": "estatuto-22239-1932",
+    "title": "Estatuto Cooperativo Nacional (Decreto nº 22.239)",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "O governo Getúlio Vargas edita o primeiro marco moderno abrangente, definindo a cooperativa como sociedade comercial sui generis.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia"
+    },
+    "allDay": true,
+    "start": "1932-12-19"
+  },
+  {
     "id": "rochdale-1844-1932",
     "title": "Abertura do armazém dos Pioneiros de Rochdale",
     "extendedProps": {
@@ -2582,6 +3622,26 @@
     },
     "allDay": true,
     "start": "1932-12-21"
+  },
+  {
+    "id": "criao-cooperativismo-1933",
+    "title": "Criação do Departamento de Assistência ao Cooperativismo",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Instituição do DAC junto à Secretaria da Agricultura de São Paulo (depois ICA), primeiro órgão público latino-americano de extensão cooperativista contínua.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1933,
+      "mes": null
+    }
   },
   {
     "id": "primeiro-dia-internacional-1933",
@@ -2658,6 +3718,26 @@
     },
     "allDay": true,
     "start": "1934-07-07"
+  },
+  {
+    "id": "regulamentao-sindicalista-1934",
+    "title": "Regulamentação do Cooperativismo Sindicalista",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "O Decreto nº 24.647 vincula cooperativas a consórcios profissionais sindicais, em sintonia com a estrutura corporativista da Era Vargas.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia"
+    },
+    "allDay": true,
+    "start": "1934-07-10"
   },
   {
     "id": "14-congresso-aci",
@@ -2908,6 +3988,46 @@
     },
     "allDay": true,
     "start": "1938-07-07"
+  },
+  {
+    "id": "centralizao-581-1938",
+    "title": "Centralização e Registro Cooperativo (Decreto-Lei nº 581)",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Restabelece as diretrizes de 1932, extingue o modelo puramente sindicalista e centraliza fiscalização e homologação no Ministério da Agricultura.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia"
+    },
+    "allDay": true,
+    "start": "1938-08-01"
+  },
+  {
+    "id": "falecimento-amstad-1938",
+    "title": "Falecimento do Padre Theodor Amstad",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Morte do pioneiro do crédito cooperativo em São Leopoldo (RS), após liderar a abertura de dezenas de associações no sul do Brasil.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia"
+    },
+    "allDay": true,
+    "start": "1938-11-07"
   },
   {
     "id": "rochdale-1844-1938",
@@ -3165,6 +4285,26 @@
     "start": "1943-07-07"
   },
   {
+    "id": "criao-ccc-1943",
+    "title": "Criação da Caixa de Crédito Cooperativo (CCC)",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "O Decreto-Lei nº 5.894 cria instituição pública de fomento financeiro oficial para prover liquidez a cooperativas agrícolas e de consumo.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia"
+    },
+    "allDay": true,
+    "start": "1943-10-16"
+  },
+  {
     "id": "rochdale-1844-1943",
     "title": "Abertura do armazém dos Pioneiros de Rochdale",
     "extendedProps": {
@@ -3189,6 +4329,26 @@
     },
     "allDay": true,
     "start": "1943-12-21"
+  },
+  {
+    "id": "i-cbc-1944",
+    "title": "I Congresso Brasileiro de Cooperativismo (CBC)",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Realizado em São Paulo para celebrar o centenário dos Pioneiros de Rochdale (1844–1944), reunindo delegações para debater integração nacional.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1944,
+      "mes": null
+    }
   },
   {
     "id": "primeiro-dia-internacional-1944",
@@ -3548,6 +4708,26 @@
     "start": "1950-12-21"
   },
   {
+    "id": "filiao-bncc-1951",
+    "title": "Filiação à ACI e Transformação no BNCC",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Valdiki Moura formaliza a filiação brasileira à ACI em Londres; a Caixa de Crédito é convertida no Banco Nacional de Crédito Cooperativo (BNCC).",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1951,
+      "mes": null
+    }
+  },
+  {
     "id": "primeiro-dia-internacional-1951",
     "title": "Primeiro Dia Internacional do Cooperativismo",
     "extendedProps": {
@@ -3803,6 +4983,66 @@
     "start": "1955-12-21"
   },
   {
+    "id": "criao-abcoop-1956",
+    "title": "Criação da UNASCO e da ABCOOP",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Cisão de diretrizes no movimento gera a União Nacional das Associações Cooperativas (SP) e a Aliança Brasileira de Cooperativas (RJ).",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1956,
+      "mes": null
+    }
+  },
+  {
+    "id": "fundao-basco-1956",
+    "title": "Fundação do Complexo Mondragón (País Basco)",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Pe. José María Arizmendiarrieta funda a primeira oficina cooperativa (Ulgor), embrião da Corporação Mondragón, maior rede fabril de autogestão do mundo.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1956,
+      "mes": null
+    }
+  },
+  {
+    "id": "lei-cooperativa-1956",
+    "title": "Lei Paulistana de Isenção Cooperativa",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Lei nº 4.870, sancionada por Wladimir de Toledo Piza em São Paulo, concede ampla isenção de tributos municipais a cooperativas.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia"
+    },
+    "allDay": true,
+    "start": "1956-01-03"
+  },
+  {
     "id": "primeiro-dia-internacional-1956",
     "title": "Primeiro Dia Internacional do Cooperativismo",
     "extendedProps": {
@@ -4007,6 +5247,26 @@
     "start": "1959-12-21"
   },
   {
+    "id": "lanamento-cooperativo-1960",
+    "title": "Lançamento de Sinopse do Movimento Cooperativo",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Fábio Luz Filho reúne estatísticas, normativos e memória das sociedades cooperativas no Brasil pelo Ministério da Agricultura.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1960,
+      "mes": null
+    }
+  },
+  {
     "id": "primeiro-dia-internacional-1960",
     "title": "Primeiro Dia Internacional do Cooperativismo",
     "extendedProps": {
@@ -4132,6 +5392,26 @@
     "start": "1961-12-21"
   },
   {
+    "id": "primeira-brasil-1962",
+    "title": "Primeira Tese Doutoral em Cooperativismo no Brasil",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Diva Benevides Pinho defende na FEA/USP a tese Cooperativas e Desenvolvimento Econômico do Brasil, inaugurando a produção acadêmica do setor.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1962,
+      "mes": null
+    }
+  },
+  {
     "id": "primeiro-dia-internacional-1962",
     "title": "Primeiro Dia Internacional do Cooperativismo",
     "extendedProps": {
@@ -4234,6 +5514,26 @@
     "start": "1963-12-21"
   },
   {
+    "id": "unificao-arco-ris-1964",
+    "title": "Unificação Cultural e Revista Arco-Íris",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "ABCOOP absorve o acervo do Centro Nacional de Estudos Cooperativos (CNEC) e passa a publicar a histórica revista sob editoria de Valdiki Moura.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1964,
+      "mes": null
+    }
+  },
+  {
     "id": "primeiro-dia-internacional-1964",
     "title": "Primeiro Dia Internacional do Cooperativismo",
     "extendedProps": {
@@ -4283,6 +5583,66 @@
     },
     "allDay": true,
     "start": "1964-12-21"
+  },
+  {
+    "id": "lei-4595-1964",
+    "title": "Lei da Reforma Bancária (Lei nº 4.595)",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Reestrutura o Sistema Financeiro Nacional e impõe restrições regulatórias severas que sufocam as cooperativas de crédito de agricultores e artesãos.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia"
+    },
+    "allDay": true,
+    "start": "1964-12-31"
+  },
+  {
+    "id": "introduo-brasil-1965",
+    "title": "Introdução do Modelo Desjardins no Brasil",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Maria Tereza Rosália Teixeira Mendes (Terezita) estrutura cooperativas de crédito mútuo fechadas a empregados de empresas urbanas (rede FELEME).",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1965,
+      "mes": null
+    }
+  },
+  {
+    "id": "publicao-cooperativo-1965",
+    "title": "Publicação do Tratado Geral de Crédito Cooperativo",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Waldirio Bulgarelli lança obra jurídica em dois volumes sobre o arcabouço doutrinário e contratual do crédito mútuo.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1965,
+      "mes": null
+    }
   },
   {
     "id": "primeiro-dia-internacional-1965",
@@ -4384,6 +5744,26 @@
     "start": "1966-09-05"
   },
   {
+    "id": "instituio-cooperativismo-1966",
+    "title": "Instituição do Conselho Nacional de Cooperativismo",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "O Decreto-Lei nº 59 aprofunda a tutela do Estado militar sobre o setor, centraliza autorizações no CNC e veda cooperativas de seguros.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia"
+    },
+    "allDay": true,
+    "start": "1966-11-21"
+  },
+  {
     "id": "rochdale-1844-1966",
     "title": "Abertura do armazém dos Pioneiros de Rochdale",
     "extendedProps": {
@@ -4435,6 +5815,26 @@
     "start": "1967-07-07"
   },
   {
+    "id": "fundao-sade-1967",
+    "title": "Fundação da Unimed Santos (Início do Ramo Saúde)",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Dr. Edmundo Castilho e grupo de médicos fundam a primeira cooperativa de trabalho médico do mundo, dando origem à rede Unimed.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia"
+    },
+    "allDay": true,
+    "start": "1967-12-18"
+  },
+  {
     "id": "rochdale-1844-1967",
     "title": "Abertura do armazém dos Pioneiros de Rochdale",
     "extendedProps": {
@@ -4459,6 +5859,26 @@
     },
     "allDay": true,
     "start": "1967-12-21"
+  },
+  {
+    "id": "misso-agricultura-1968",
+    "title": "Missão Pacificadora da Agricultura",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Secretário Antônio José Rodrigues Filho coordena, a pedido do governo federal, a conciliação política entre as correntes rivais da UNASCO e ABCOOP.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1968,
+      "mes": null
+    }
   },
   {
     "id": "primeiro-dia-internacional-1968",
@@ -4510,6 +5930,26 @@
     },
     "allDay": true,
     "start": "1968-12-21"
+  },
+  {
+    "id": "fundao-aurora-1969",
+    "title": "Fundação da Cooperativa Central Aurora",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Fundação da Cooperativa Central Oeste Catarinense em Chapecó (SC), constituída para industrializar e exportar carne e grãos de cooperativas filiadas.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia"
+    },
+    "allDay": true,
+    "start": "1969-04-15"
   },
   {
     "id": "primeiro-dia-internacional-1969",
@@ -4586,6 +6026,26 @@
     },
     "allDay": true,
     "start": "1969-12-21"
+  },
+  {
+    "id": "posse-ocb-1970",
+    "title": "Posse da Primeira Diretoria Definitiva da OCB",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Antônio José Rodrigues Filho assume a presidência da OCB e dá início à instalação progressiva das Organizações Estaduais (OCEs).",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia"
+    },
+    "allDay": true,
+    "start": "1970-06-30"
   },
   {
     "id": "primeiro-dia-internacional-1970",
@@ -4735,6 +6195,26 @@
       "precisao": "dia",
       "ano_origem": 1971,
       "edicao": 0
+    },
+    "allDay": true,
+    "start": "1971-12-16"
+  },
+  {
+    "id": "promulgao-5764-1971",
+    "title": "Promulgação da Lei Geral do Cooperativismo (Lei 5.764)",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Define a Política Nacional de Cooperativismo, o regime societário cooperativo, o ato cooperativo e o monopólio de representação do Sistema OCB.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia"
     },
     "allDay": true,
     "start": "1971-12-16"
@@ -5174,6 +6654,46 @@
     "start": "1975-12-21"
   },
   {
+    "id": "criao-pronacoop-1976",
+    "title": "Criação do PRONACOOP",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "O governo federal institui o Programa Nacional de Cooperativismo para modernizar a gestão de centrais agropecuárias e expandir armazéns.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1976,
+      "mes": null
+    }
+  },
+  {
+    "id": "instalao-pesquisa-1976",
+    "title": "Instalação de Fundações Regionais de Pesquisa",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Constituição de entidades técnicas e de auditoria (ASSOCENE, ASSOCEP, FUNDEC e ITEC), subsidiadas em parte pela alemã Friedrich Naumann.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1976,
+      "mes": null
+    }
+  },
+  {
     "id": "primeiro-dia-internacional-1976",
     "title": "Primeiro Dia Internacional do Cooperativismo",
     "extendedProps": {
@@ -5480,6 +7000,26 @@
     "start": "1978-12-21"
   },
   {
+    "id": "fundao-feausp-1979",
+    "title": "Fundação da Coopercultura na FEA/USP",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Docentes e universitários liderados pela Profª Diva Benevides Pinho fundam a Cooperativa Mista de Cultura e Trabalho na Universidade de São Paulo.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1979,
+      "mes": null
+    }
+  },
+  {
     "id": "primeiro-dia-internacional-1979",
     "title": "Primeiro Dia Internacional do Cooperativismo",
     "extendedProps": {
@@ -5580,6 +7120,66 @@
     },
     "allDay": true,
     "start": "1979-12-21"
+  },
+  {
+    "id": "reestruturao-sul-1980",
+    "title": "Reestruturação do Crédito Rural no Sul",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Mário Kruel Guimarães lidera a reabilitação das cooperativas de crédito rural gaúchas (COCECRER-RS), estabelecendo os alicerces do futuro Sistema Sicredi.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1980,
+      "mes": null
+    }
+  },
+  {
+    "id": "estruturao-unimed-1980",
+    "title": "Estruturação Empresarial do Complexo Unimed",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Instituição de braços societários complementares de capital (participações, corretora e seguradora) integrados à sociedade cooperativa civil.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1980,
+      "mes": null
+    }
+  },
+  {
+    "id": "publicao-cooperativismo-1980",
+    "title": "Publicação do Manual Básico de Cooperativismo",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Seminário na USP resulta na maior enciclopédia doutrinária nacional do cooperativismo em 4 volumes, sob coordenação geral de Diva Pinho.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1980,
+      "mes": null
+    }
   },
   {
     "id": "primeiro-dia-internacional-1980",
@@ -5786,6 +7386,26 @@
     "start": "1981-12-21"
   },
   {
+    "id": "fundao-pr-1982",
+    "title": "Fundação da COCECRER-PR (Central Sicredi PR)",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Dez cooperativas singulares do Paraná fundam central de crédito rural para compensação financeira de depósitos e concessão de custeios agrícolas.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia"
+    },
+    "allDay": true,
+    "start": "1982-01-20"
+  },
+  {
     "id": "primeiro-dia-internacional-1982",
     "title": "Primeiro Dia Internacional do Cooperativismo",
     "extendedProps": {
@@ -5988,6 +7608,26 @@
     },
     "allDay": true,
     "start": "1983-12-21"
+  },
+  {
+    "id": "criao-cooperativismo-1984",
+    "title": "Criação da Frente Parlamentar do Cooperativismo",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Deputados e senadores articulam a Frencoop no Congresso Nacional para assegurar o alinhamento das pautas de fomento ao cooperativismo.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1984,
+      "mes": null
+    }
   },
   {
     "id": "primeiro-dia-internacional-1984",
@@ -6194,6 +7834,26 @@
     "start": "1985-12-21"
   },
   {
+    "id": "mobilizao-constituinte-1986",
+    "title": "Mobilização Cooperativista na Constituinte",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Bancada cooperativista (36 senadores e 171 deputados) atua na redação dos preceitos de liberdade societária da nova Constituição da República.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1986,
+      "mes": null
+    }
+  },
+  {
     "id": "primeiro-dia-internacional-1986",
     "title": "Primeiro Dia Internacional do Cooperativismo",
     "extendedProps": {
@@ -6217,6 +7877,26 @@
     },
     "allDay": true,
     "start": "1986-07-07"
+  },
+  {
+    "id": "fundao-confebras-1986",
+    "title": "Fundação da Confederação CONFEBRAS",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Federações de crédito mútuo de servidores e profissionais reúnem-se em Vitória (ES) para constituir confederação de 3º grau presidida por Ronaldo Scucato.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia"
+    },
+    "allDay": true,
+    "start": "1986-11-27"
   },
   {
     "id": "ocb-fundacao-1986",
@@ -6448,6 +8128,26 @@
     "start": "1988-10-05"
   },
   {
+    "id": "plena-cf1988-1988",
+    "title": "Plena Autonomia e Autogestão na CF/1988",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "O Art. 5º, XVIII veda a interferência do Estado nas cooperativas, e o Art. 174, § 2º impõe dever constitucional de apoio e estímulo ao setor.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia"
+    },
+    "allDay": true,
+    "start": "1988-10-05"
+  },
+  {
     "id": "ocb-fundacao-1988",
     "title": "Fundação da OCB",
     "extendedProps": {
@@ -6652,6 +8352,46 @@
     "start": "1989-12-21"
   },
   {
+    "id": "instituio-denacoop-1990",
+    "title": "Instituição do DENACOOP",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "O antigo órgão fiscalizador é substituído pelo Departamento Nacional de Cooperativismo (Ministério da Agricultura), com foco em extensão e fomento.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1990,
+      "mes": null
+    }
+  },
+  {
+    "id": "extino-bncc-1990",
+    "title": "Extinção do BNCC",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Governo Fernando Collor liquida o Banco Nacional de Crédito Cooperativo no âmbito das reformas de desregulamentação financeira.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia"
+    },
+    "allDay": true,
+    "start": "1990-03-15"
+  },
+  {
     "id": "primeiro-dia-internacional-1990",
     "title": "Primeiro Dia Internacional do Cooperativismo",
     "extendedProps": {
@@ -6777,6 +8517,26 @@
     },
     "allDay": true,
     "start": "1990-12-21"
+  },
+  {
+    "id": "criao-holambra-1991",
+    "title": "Criação do Sistema Veiling em Holambra",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "A cooperativa agropecuária paulista introduz o leilão reverso holandês com painel eletrônico para padronizar o mercado atacadista de flores.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1991,
+      "mes": null
+    }
   },
   {
     "id": "primeiro-dia-internacional-1991",
@@ -7079,6 +8839,26 @@
     "start": "1992-12-21"
   },
   {
+    "id": "liquidao-cotia-1993",
+    "title": "Liquidação da Cooperativa Agrícola de Cotia",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "A quebra e dissolução da CAC (18 mil cooperados e 8 mil funcionários) força centrais agrícolas a reestruturarem processos de governança e endividamento.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1993,
+      "mes": null
+    }
+  },
+  {
     "id": "primeiro-dia-internacional-1993",
     "title": "Primeiro Dia Internacional do Cooperativismo",
     "extendedProps": {
@@ -7333,6 +9113,26 @@
     "start": "1994-12-21"
   },
   {
+    "id": "expanso-itcps-1995",
+    "title": "Expansão das Incubadoras Tecnológicas de Cooperativas Populares (ITCPs)",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Universidades públicas passam a abrigar Incubadoras Tecnológicas de Cooperativas Populares voltadas a empreendimentos de trabalhadores excluídos.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1995,
+      "mes": null
+    }
+  },
+  {
     "id": "primeiro-dia-internacional-1995",
     "title": "Primeiro Dia Internacional do Cooperativismo",
     "extendedProps": {
@@ -7356,6 +9156,26 @@
     },
     "allDay": true,
     "start": "1995-07-07"
+  },
+  {
+    "id": "autorizao-cooperativos-1995",
+    "title": "Autorização de Bancos Comerciais Cooperativos",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Resolução CMN nº 2.193 autoriza cooperativas centrais de crédito a constituírem bancos comerciais privados sob controle de cooperativas.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia"
+    },
+    "allDay": true,
+    "start": "1995-08-31"
   },
   {
     "id": "31-congresso-aci-1995",
@@ -7431,6 +9251,26 @@
     },
     "allDay": true,
     "start": "1995-12-02"
+  },
+  {
+    "id": "fundao-londrina-1995",
+    "title": "Fundação da Cooperativa Integrada em Londrina",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Produtores rurais e ex-cooperados da Cooperativa de Cotia no Paraná fundam nova cooperativa singular de grãos e insumos.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia"
+    },
+    "allDay": true,
+    "start": "1995-12-06"
   },
   {
     "id": "lei-5764-1995",
@@ -7560,6 +9400,26 @@
     "start": "1996-10-05"
   },
   {
+    "id": "aprovao-bansicredi-1996",
+    "title": "Aprovação do Bansicredi",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Banco Central autoriza o Banco Cooperativo Sicredi S.A. no Rio Grande do Sul a operar câmbio, tesouraria e serviços bancários para as filiadas.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia"
+    },
+    "allDay": true,
+    "start": "1996-10-16"
+  },
+  {
     "id": "ocb-fundacao-1996",
     "title": "Fundação da OCB",
     "extendedProps": {
@@ -7637,6 +9497,26 @@
     "start": "1996-12-21"
   },
   {
+    "id": "criao-gedeic-1997",
+    "title": "Criação do Comitê de Gênero da OCB (GEDEIC)",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Comitê dedicado a estimular a representação feminina e a liderança de mulheres cooperativistas, presidido por Diva Benevides Pinho.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 1997,
+      "mes": null
+    }
+  },
+  {
     "id": "primeiro-dia-internacional-1997",
     "title": "Primeiro Dia Internacional do Cooperativismo",
     "extendedProps": {
@@ -7660,6 +9540,46 @@
     },
     "allDay": true,
     "start": "1997-07-07"
+  },
+  {
+    "id": "aprovao-bancoob-1997",
+    "title": "Aprovação do Banco Cooperativo do Brasil (Bancoob)",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Banco Central autoriza o funcionamento do Bancoob (atual Banco Sicoob), constituído por centrais de crédito rural e urbano de 8 estados.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "mes",
+      "ano": 1997,
+      "mes": 9
+    }
+  },
+  {
+    "id": "roberto-aci-1997",
+    "title": "Roberto Rodrigues na Presidência da ACI",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Eleito em assembleia na Suíça, o ex-presidente da OCB torna-se o primeiro líder não europeu a comandar a Aliança Cooperativa Internacional em mais de 100 anos.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia"
+    },
+    "allDay": true,
+    "start": "1997-09-16"
   },
   {
     "id": "31-congresso-aci-1997",
@@ -7789,6 +9709,26 @@
     "start": "1997-12-21"
   },
   {
+    "id": "fundao-cear-1998",
+    "title": "Fundação do Banco Palmas (Ceará)",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Associação de moradores do Conjunto Palmeiras (Fortaleza) cria o Banco Palmas, dando início à microfinança solidária e às moedas sociais locais.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "mes",
+      "ano": 1998,
+      "mes": 1
+    }
+  },
+  {
     "id": "primeiro-dia-internacional-1998",
     "title": "Primeiro Dia Internacional do Cooperativismo",
     "extendedProps": {
@@ -7812,6 +9752,26 @@
     },
     "allDay": true,
     "start": "1998-07-07"
+  },
+  {
+    "id": "autorizao-1715-1998",
+    "title": "Autorização Legal do SESCOOP (MP nº 1.715)",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Medida Provisória cria o Serviço Nacional de Aprendizagem do Cooperativismo no âmbito do Sistema \"S\", voltado à qualificação e auditoria social.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia"
+    },
+    "allDay": true,
+    "start": "1998-09-03"
   },
   {
     "id": "31-congresso-aci-1998",
@@ -7939,6 +9899,26 @@
     },
     "allDay": true,
     "start": "1998-12-21"
+  },
+  {
+    "id": "aprovao-sescoop-1999",
+    "title": "Aprovação do Regulamento do SESCOOP",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "O Decreto Federal nº 3.017 disciplina os estatutos do SESCOOP, com Dejandir Dalpasquale na presidência e Waldir Giusti na superintendência.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia"
+    },
+    "allDay": true,
+    "start": "1999-04-06"
   },
   {
     "id": "primeiro-dia-internacional-1999",
@@ -8420,6 +10400,26 @@
     "start": "2001-12-21"
   },
   {
+    "id": "cooperativas-10406-2002",
+    "title": "Cooperativas no Código Civil (Lei nº 10.406)",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Os artigos 982 e 1.093 a 1.096 classificam a sociedade cooperativa invariavelmente como sociedade simples, regida subsidiariamente pela lei geral.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia"
+    },
+    "allDay": true,
+    "start": "2002-01-10"
+  },
+  {
     "id": "identidade-oit-reconhecimento",
     "title": "Identidade Cooperativa na Organização Internacional do Trabalho",
     "extendedProps": {
@@ -8466,6 +10466,26 @@
     },
     "allDay": true,
     "start": "2002-07-07"
+  },
+  {
+    "id": "microcrdito-3058-2002",
+    "title": "Microcrédito no Sistema Financeiro (Res. 3.058)",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Resolução do BACEN flexibiliza autorizações para criação de cooperativas de crédito voltadas a microempresários e pequenos negócios.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia"
+    },
+    "allDay": true,
+    "start": "2002-09-19"
   },
   {
     "id": "31-congresso-aci-2002",
@@ -8595,6 +10615,46 @@
     "start": "2002-12-21"
   },
   {
+    "id": "centenrio-nacional-2002",
+    "title": "Centenário do Crédito Cooperativo Nacional",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Inauguração do monumento Força Cooperativa em Nova Petrópolis (RS) e publicação da Carta de Santos durante as celebrações dos 100 anos da Sicredi Pioneira.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia"
+    },
+    "allDay": true,
+    "start": "2002-12-28"
+  },
+  {
+    "id": "criao-solidria-2003",
+    "title": "Criação da Secretaria Nacional de Economia Solidária",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "O Decreto nº 4.764 cria a SENAES no Ministério do Trabalho, capitaneada por Paul Singer para fomentar cooperativas populares de trabalho e autogestão.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "mes",
+      "ano": 2003,
+      "mes": 6
+    }
+  },
+  {
     "id": "primeiro-dia-internacional-2003",
     "title": "Primeiro Dia Internacional do Cooperativismo",
     "extendedProps": {
@@ -8618,6 +10678,26 @@
     },
     "allDay": true,
     "start": "2003-07-07"
+  },
+  {
+    "id": "autorizao-3106-2003",
+    "title": "Autorização da Livre Admissão no Crédito (Res. 3.106)",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "O Banco Central permite a criação de cooperativas de crédito mútuo abertas a qualquer cidadão de determinada região, superando a barreira profissional restrita.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia"
+    },
+    "allDay": true,
+    "start": "2003-07-24"
   },
   {
     "id": "31-congresso-aci-2003",
@@ -9507,6 +11587,26 @@
     "start": "2008-12-21"
   },
   {
+    "id": "sistema-130-2009",
+    "title": "Sistema Nacional de Crédito Cooperativo (LC 130)",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Consolida o estatuto jurídico do SNCC, autoriza novas operações financeiras e garante paridade regulatória com o Sistema Financeiro Nacional.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia"
+    },
+    "allDay": true,
+    "start": "2009-04-17"
+  },
+  {
     "id": "primeiro-dia-internacional-2009",
     "title": "Primeiro Dia Internacional do Cooperativismo",
     "extendedProps": {
@@ -9680,6 +11780,26 @@
     },
     "allDay": true,
     "start": "2009-12-21"
+  },
+  {
+    "id": "ttulo-cooperativismo-2010",
+    "title": "Título de Capital Nacional do Cooperativismo",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "A Lei Federal nº 12.205 confere formalmente a Nova Petrópolis (RS) o título em reconhecimento ao pioneirismo do Padre Amstad.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia"
+    },
+    "allDay": true,
+    "start": "2010-01-19"
   },
   {
     "id": "primeiro-dia-internacional-2010",
@@ -10032,6 +12152,26 @@
     },
     "allDay": true,
     "start": "2012-07-07"
+  },
+  {
+    "id": "lei-12690-2012",
+    "title": "Lei das Cooperativas de Trabalho (Lei nº 12.690)",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Disciplina o regime dos trabalhadores cooperados em cooperativas de produção e trabalho, assegurando piso remuneratório e direitos de seguridade social.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia"
+    },
+    "allDay": true,
+    "start": "2012-07-19"
   },
   {
     "id": "31-congresso-aci-2012",
@@ -10640,6 +12780,26 @@
     "start": "2015-12-21"
   },
   {
+    "id": "patrimnio-humanidade-2016",
+    "title": "Patrimônio Cultural Imaterial da Humanidade",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "A UNESCO declara a ideia e a prática de organizar interesses comuns em cooperativas como Patrimônio Cultural Imaterial da Humanidade.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 2016,
+      "mes": null
+    }
+  },
+  {
     "id": "primeiro-dia-internacional-2016",
     "title": "Primeiro Dia Internacional do Cooperativismo",
     "extendedProps": {
@@ -11096,6 +13256,26 @@
     "start": "2018-12-21"
   },
   {
+    "id": "reestruturao-cooperativismo-2019",
+    "title": "Reestruturação dos Ramos do Cooperativismo",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "O Sistema OCB reduz e moderniza a estrutura setorial das cooperativas, unificando 13 modalidades em 7 ramos fundamentais de atividade econômica.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "ano",
+      "ano": 2019,
+      "mes": null
+    }
+  },
+  {
     "id": "primeiro-dia-internacional-2019",
     "title": "Primeiro Dia Internacional do Cooperativismo",
     "extendedProps": {
@@ -11194,6 +13374,26 @@
     },
     "allDay": true,
     "start": "2019-12-02"
+  },
+  {
+    "id": "padre-13926-2019",
+    "title": "Padre Amstad Patrono Nacional (Lei nº 13.926)",
+    "extendedProps": {
+      "tipo": "efeméride",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Promulgação da lei federal que oficializa o jesuíta suíço Theodor Amstad como Patrono do Cooperativismo Brasileiro.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia"
+    },
+    "allDay": true,
+    "start": "2019-12-09"
   },
   {
     "id": "lei-5764-2019",
@@ -11830,6 +14030,26 @@
     "start": "2023-12-16"
   },
   {
+    "id": "tratamento-tributria-2023",
+    "title": "Tratamento do Ato Cooperativo na Reforma Tributária",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "A Emenda Constitucional nº 132 inclui a garantia do adequado tratamento tributário ao ato cooperativo no novo sistema de tributação do consumo (IBS e CBS).",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia"
+    },
+    "allDay": true,
+    "start": "2023-12-20"
+  },
+  {
     "id": "rochdale-1844-2023",
     "title": "Abertura do armazém dos Pioneiros de Rochdale",
     "extendedProps": {
@@ -12029,6 +14249,26 @@
     },
     "allDay": true,
     "start": "2025-01-01"
+  },
+  {
+    "id": "criao-ocb-2025",
+    "title": "Criação do Ramo Seguros no Brasil na OCB",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Cooperativismo",
+      "tags": [],
+      "local": "",
+      "resumo": "Assembleia Geral do Sistema OCB homologa a cisão das operações securitárias e mutualistas, instituindo o Ramo Seguros como o 8º ramo oficial.",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "fonte": "Diva Pinho - Adriana Amaral",
+      "relembrar": false,
+      "evidenciar": false,
+      "precisao": "dia"
+    },
+    "allDay": true,
+    "start": "2025-03-18"
   },
   {
     "id": "primeiro-dia-internacional-2025",
