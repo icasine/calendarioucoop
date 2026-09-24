@@ -1208,7 +1208,7 @@
     "start": "1875-12-21"
   },
   {
-    "id": "autorizao-cooperativas-1876",
+    "id": "autorizacao-uniao-auxiliar-1876",
     "title": "Autorização da Sociedade União Auxiliar (Primeiras Cooperativas)",
     "extendedProps": {
       "tipo": "fato histórico",
@@ -1230,7 +1230,7 @@
     "start": "1876-03-24"
   },
   {
-    "id": "autorizao-cooperativas-1876",
+    "id": "autorizacao-cooperativa-consumo-1876",
     "title": "Autorização da Sociedade Cooperativa de Consumo (Primeiras Cooperativas)",
     "extendedProps": {
       "tipo": "fato histórico",
@@ -2029,19 +2029,19 @@
     }
   },
   {
-    "id": "fundao-aci-1895",
-    "title": "Fundação da Aliança Cooperativa Internacional (ACI)",
+    "id": "congress-1-aic",
+    "title": "Fundação da ACI (1º Congresso Cooperativo Internacional)",
     "extendedProps": {
-      "tipo": "fato histórico",
+      "tipo": "evento",
       "categoria": "Cooperativismo",
       "tags": [],
-      "local": "",
-      "resumo": "Criação da entidade máxima global de integração e representação do movimento cooperativo durante congresso inaugural em Londres.",
+      "local": "Londres, Inglaterra",
+      "resumo": "Durante o 1º Congresso Cooperativo Internacional, em Londres, delegados de diversos países fundam a Aliança Cooperativa Internacional, entidade máxima de integração e representação do movimento cooperativo.",
       "descricao": "",
-      "link": "",
-      "imagem": "",
-      "fonte": "Diva Pinho",
-      "relembrar": false,
+      "link": "https://ica.coop/en/cooperatives/history-cooperative-movement",
+      "imagem": "https://www.ica.coop/sites/default/files/styles/full_image/public/news-item-fullimage/greening-report-480267094.jpeg?itok=aOlYVuee",
+      "fonte": "ICA",
+      "relembrar": true,
       "evidenciar": false,
       "precisao": "dia"
     },
@@ -2121,26 +2121,6 @@
       "ano": 1897,
       "mes": null
     }
-  },
-  {
-    "id": "congress-1-aic",
-    "title": "1º Congresso da ACI",
-    "extendedProps": {
-      "tipo": "evento",
-      "categoria": "Cooperativismo",
-      "tags": [],
-      "local": "Londres, Inglaterra",
-      "resumo": "Reunião histórica em Londres reunindo delegados de 14 países para o primeiro congresso mundial do movimento.",
-      "descricao": "",
-      "link": "https://ica.coop/en/cooperatives/history-cooperative-movement",
-      "imagem": "https://www.ica.coop/sites/default/files/styles/full_image/public/news-item-fullimage/greening-report-480267094.jpeg?itok=aOlYVuee",
-      "fonte": "ICA",
-      "relembrar": true,
-      "evidenciar": false,
-      "precisao": "dia"
-    },
-    "allDay": true,
-    "start": "1897-09-14"
   },
   {
     "id": "rochdale-1844-1897",
@@ -2590,7 +2570,7 @@
       "precisao": "dia"
     },
     "allDay": true,
-    "start": "1907-01-15"
+    "start": "1907-01-05"
   },
   {
     "id": "rochdale-1844-1907",
@@ -4358,15 +4338,15 @@
   },
   {
     "id": "criao-ccc-1943",
-    "title": "Criação da Caixa de Crédito Cooperativo (CCC)",
+    "title": "Decreto-Lei 5.893/1943: nova lei das cooperativas e criação da Caixa de Crédito Cooperativo",
     "extendedProps": {
       "tipo": "fato histórico",
       "categoria": "Cooperativismo",
       "tags": [],
       "local": "",
-      "resumo": "O Decreto-Lei nº 5.894 cria instituição pública de fomento financeiro oficial para prover liquidez a cooperativas agrícolas e de consumo.",
-      "descricao": "",
-      "link": "",
+      "resumo": "O Decreto-Lei nº 5.893 substitui o regime do Decreto 22.239/1932 e cria a Caixa de Crédito Cooperativo (arts. 104 a 118), instituição pública de fomento às cooperativas.",
+      "descricao": "O decreto-lei foi revogado em 1945 pelo Decreto-Lei 8.401, que manteve apenas as regras da Caixa. Em 1951 a Caixa foi transformada no BNCC.",
+      "link": "http://www.planalto.gov.br/ccivil_03/atos/del/1943/del05893.htm",
       "imagem": "",
       "fonte": "Diva Pinho",
       "relembrar": false,
@@ -4374,7 +4354,7 @@
       "precisao": "dia"
     },
     "allDay": true,
-    "start": "1943-10-16"
+    "start": "1943-10-19"
   },
   {
     "id": "rochdale-1844-1943",
@@ -4834,15 +4814,15 @@
   },
   {
     "id": "criao-bncc-1951",
-    "title": "Criação e Extinção do BNCC",
+    "title": "Criação do BNCC",
     "extendedProps": {
       "tipo": "fato histórico",
       "categoria": "História",
       "tags": [],
       "local": "",
-      "resumo": "A Caixa de Crédito é convertida no Banco Nacional de Crédito Cooperativo (BNCC), Governo Fernando Collor liquida o Banco Nacional de Crédito Cooperativo no âmbito das reformas de desregulamentação financeira.",
+      "resumo": "A Lei nº 1.412 transforma a Caixa de Crédito Cooperativo no Banco Nacional de Crédito Cooperativo (BNCC), principal financiador público das cooperativas até 1990.",
       "descricao": "",
-      "link": "",
+      "link": "https://www.planalto.gov.br/ccivil_03/leis/1950-1969/L1412.htm",
       "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLqMWM81wE1eXKFP5LF8iVID9CQIHOuJDrYzhH3tcR953yQcPpvwRU66gyDg7B4yZHpyc8rAPMBt_6I-8pQCmTJDzDSbCcAWAcVN92IEINRStwaKbMR59tfr_E4qriL52-Cwma0RRjJLPYXbIBfXezwTdZqpYzEd5y169lhN7uf33GYvE5ekbvIs545-s/s2124/ChatGPT%20Image%2023%20de%20set.%20de%202026,%2018_18_53.png",
       "fonte": "Diva Pinho",
       "relembrar": false,
@@ -10045,6 +10025,26 @@
     },
     "allDay": true,
     "start": "1999-10-05"
+  },
+  {
+    "id": "lei-sociais-1999",
+    "title": "Lei das Cooperativas Sociais",
+    "extendedProps": {
+      "tipo": "fato histórico",
+      "categoria": "Legislativo",
+      "tags": [],
+      "local": "",
+      "resumo": "Disciplina as sociedades cooperativas criadas com a finalidade exclusiva de integrar social e produtivamente pessoas em situação de vulnerabilidade, como pessoas com deficiência física ou sensorial, dependentes químicos em reabilitação e egressos do sistema prisional.",
+      "descricao": "",
+      "link": "https://www.planalto.gov.br/ccivil_03/leis/l9867.htm",
+      "imagem": "",
+      "fonte": "Planalto",
+      "relembrar": true,
+      "evidenciar": false,
+      "precisao": "dia"
+    },
+    "allDay": true,
+    "start": "1999-11-10"
   },
   {
     "id": "ocb-fundacao-1999",
